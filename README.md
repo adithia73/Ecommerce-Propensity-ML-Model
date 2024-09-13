@@ -1,6 +1,3 @@
-Here's the updated README with the dataset links included:
-
----
 
 # Ecommerce Propensity ML Model
 
