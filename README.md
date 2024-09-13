@@ -59,7 +59,7 @@ The datasets used for training the model are as follows:
 - **Pandas** and **NumPy** (for data manipulation and processing)
 - **Scikit-learn**, **XGBoost**, **LightGBM** (for machine learning)
 - **Matplotlib** and **Seaborn** (for data visualization)
-- **Jupyter Notebook** (for exploratory analysis)
+- **Jupyter Notebook** 
 
 ## Setup Instructions
 
